@@ -1,5 +1,5 @@
 # loads csv file
-oilData <- read.csv("/Users/crvo/Google Drive/MCC/Reconocimiento de Patrones/Tareas/Tarea 3/tarea3.csv")
+oilData <- read.csv("./tarea3.csv")
 
 # attaches database to R search path
 attach(oilData)
